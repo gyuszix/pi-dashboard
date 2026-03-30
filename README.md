@@ -4,6 +4,9 @@ Self-hosted network monitoring on a Raspberry Pi Zero 2 W. Runs [Uptime Kuma](ht
 
 Keeps tabs on everything in the homelab — other Pis, desktops, laptops, Arduinos, websites.
 
+## Screenshots
+<img width="2560" height="1051" alt="Screenshot 2026-03-29 at 20 13 43" src="https://github.com/user-attachments/assets/d33843fa-290e-43cb-9415-864e8dfe31ed" />
+
 ## Hardware
 
 | Component | Spec |
@@ -129,10 +132,6 @@ docker run -d \
 ```
 
 Data lives in the Docker volume, nothing is lost.
-
-## Screenshots
-<img width="2560" height="1051" alt="Screenshot 2026-03-29 at 20 13 43" src="https://github.com/user-attachments/assets/d33843fa-290e-43cb-9415-864e8dfe31ed" />
-
 
 
 ## License
